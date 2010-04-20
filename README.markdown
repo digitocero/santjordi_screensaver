@@ -1,5 +1,5 @@
 #Intro#
-This is digitocero.com screensaver made with wuby processing.
+This is digitocero.com screensaver made with ruby processing.
 We can see random parts of the first episode of _el quijote de
 la mancha_ in random fonts find in the computer.
 #Usage#
